@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /Kazi Ferdous Hasan
 redirect_from: 
   - /about/
   - /about.html
