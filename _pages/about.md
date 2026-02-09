@@ -6,8 +6,10 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 I am a Computer Science graduate from East West University, Dhaka, Bangladesh, with hands-on research experience in Machine Learning, Deep Learning, and Large Language Models. I previously served as a Lecturer in the Department of Software Engineering at Daffodil International University. Prior to that, I worked as both an Undergraduate Teaching Assistant (UTA) and a Graduate Teaching Assistant (GTA) at East West University. Throughout my academic journey, I have contributed to multiple research projects and publications in areas including natural language processing, image processing, and 3D perception.  
-[!CAUTION] 
+
 I am currently seeking PhD opportunities starting in Spring 2027.
 
 Research Interest
